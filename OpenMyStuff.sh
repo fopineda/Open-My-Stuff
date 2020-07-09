@@ -20,7 +20,7 @@ open() {
         <project1>)
             echo "[+] opening Project 2..."
             code $PROJECT2_PATH
-            python3 OpenBookmarks.py # reference OpenBooks.py, this script is meant to open bookmarks from google chrome
+            python3 OpenBookmarks.py # reference OpenBookmarks.py, this script is meant to open bookmarks from google chrome
             exit 0
             ;;
         <project2>)
