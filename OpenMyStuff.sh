@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Script to run so it opens any current projects using VS Code and any google chrome windows
+# Scripts to open any current projects using VS Code and any google chrome windows
+# must be configured beforehand
 
 # Enter paths to projects here
 PROJECT1_PATH="<PATH/TO/FOLDER>"
